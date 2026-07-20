@@ -4,17 +4,20 @@
   "service": "app",
   "workspaceFolder": "/workspaces/ducks_template",
   "forwardPorts": [
-    8080,
     5432
   ],
   "portsAttributes": {
-    "8080": {
-      "label": "pgAdmin",
-      "onAutoForward": "notify"
-    },
     "5432": {
       "label": "PostgreSQL",
       "onAutoForward": "silent"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-ossdata.vscode-pgsql",
+	    "ms-python.python"
+      ]
     }
   }
 }
