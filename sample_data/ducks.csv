@@ -1,0 +1,147 @@
+bag_number,questing_group,destination,color,location_of_origin,count
+1,The Duck Tracies,New Duck City,Blue,Ducklantis,6
+1,The Duck Tracies,New Duck City,Green,The Shire,2
+1,The Duck Tracies,New Duck City,Yellow,The Shire,3
+1,The Duck Tracies,New Duck City,Black,Duckgard,2
+1,The Duck Tracies,New Duck City,White,Duckgard,1
+1,The Duck Tracies,New Duck City,Red,New Duck City,4
+1,The Duck Tracies,New Duck City,Orange,New Duck City,1
+1,The Moby Ducks,New Duck City,Blue,Ducklantis,3
+1,The Moby Ducks,New Duck City,Pink,Quack Vegas,3
+1,The Moby Ducks,New Duck City,Black,Duckgard,4
+1,The Moby Ducks,New Duck City,Yellow,The Shire,2
+1,The Moby Ducks,New Duck City,Red,New Duck City,2
+2,The Fantastic Fowl,Land of Ducks,Teal,Ducklantis,3
+2,The Fantastic Fowl,Land of Ducks,Lavender,Quack Vegas,3
+2,The Fantastic Fowl,Land of Ducks,White,Duckgard,4
+2,The Fantastic Fowl,Land of Ducks,Green,The Shire,2
+2,The Fantastic Fowl,Land of Ducks,Orange,New Duck City,3
+3,The Knights of the Round Pond,Fowl Valley,Purple,Ducklantis,4
+3,The Knights of the Round Pond,Fowl Valley,Red,New Duck City,3
+3,The Knights of the Round Pond,Fowl Valley,White,Duckgard,3
+3,The Knights of the Round Pond,Fowl Valley,Yellow,The Shire,2
+3,The Knights of the Round Pond,Fowl Valley,Blue,Ducklantis,4
+5,Seven Ducks Samurai,Duck City,Orange,New Duck City,1
+5,Seven Ducks Samurai,Duck City,Blue,Ducklantis,5
+5,Seven Ducks Samurai,Duck City,Purple,Quack Vegas,3
+5,Seven Ducks Samurai,Duck City,White,Duckgard,3
+5,Seven Ducks Samurai,Duck City,Yellow,The Shire,4
+8,Gander-dalf and the Quacks,Fowl Valley,Black,Duckgard,1
+8,Gander-dalf and the Quacks,Fowl Valley,White,Duckgard,3
+8,Gander-dalf and the Quacks,Fowl Valley,Red,New Duck City,2
+8,Gander-dalf and the Quacks,Fowl Valley,Orange,New Duck City,2
+8,Gander-dalf and the Quacks,Fowl Valley,Blue,Ducklantis,3
+8,Gander-dalf and the Quacks,Fowl Valley,Purple,Quack Vegas,2
+8,Gander-dalf and the Quacks,Fowl Valley,Pink,Quack Vegas,2
+8,Gander-dalf and the Quacks,Fowl Valley,Yellow,The Shire,3
+11,Federal Bureau of Ducks,Land of Ducks,White,Duckgard,2
+11,Federal Bureau of Ducks,Land of Ducks,Black,Duckgard,2
+11,Federal Bureau of Ducks,Land of Ducks,Red,New Duck City,2
+11,Federal Bureau of Ducks,Land of Ducks,Orange,New Duck City,2
+11,Federal Bureau of Ducks,Land of Ducks,Blue,Ducklantis,4
+11,Federal Bureau of Ducks,Land of Ducks,Purple,Quack Vegas,2
+11,Federal Bureau of Ducks,Land of Ducks,Pink,Quack Vegas,1
+11,Federal Bureau of Ducks,Land of Ducks,Yellow,The Shire,2
+11,Federal Bureau of Ducks,Land of Ducks,Green,The Shire,2
+12,The Mighty Ducks,The Four Ponds,Light Blue,Ducklantis,3
+12,The Mighty Ducks,The Four Ponds,Dark Blue,Ducklantis,1
+12,The Mighty Ducks,The Four Ponds,Pink,Quack Vegas,2
+12,The Mighty Ducks,The Four Ponds,Purple,Quack Vegas,2
+12,The Mighty Ducks,The Four Ponds,Red,New Duck City,1
+12,The Mighty Ducks,The Four Ponds,Orange,New Duck City,3
+12,The Mighty Ducks,The Four Ponds,White,Duckgard,2
+12,The Mighty Ducks,The Four Ponds,Black,Duckgard,2
+12,The Mighty Ducks,The Four Ponds,Yellow,The Shire,1
+12,The Mighty Ducks,The Four Ponds,Green,The Shire,2
+13,Duck Tales,The Shire,Red,New Duck City,6
+13,Duck Tales,The Shire,Yellow,The Shire,2
+13,Duck Tales,The Shire,Pink,Quack Vegas,3
+13,Duck Tales,The Shire,Black,Duckgard,5
+13,Duck Tales,The Shire,Blue,Ducklantis,3
+14,The Fantastic Fowl,New York City,White,Duckgard,3
+14,The Fantastic Fowl,New York City,Black,Duckgard,1
+14,The Fantastic Fowl,New York City,Red,New Duck City,1
+14,The Fantastic Fowl,New York City,Orange,New Duck City,1
+14,The Fantastic Fowl,New York City,Blue,Ducklantis,3
+14,The Fantastic Fowl,New York City,Purple,Quack Vegas,1
+14,The Fantastic Fowl,New York City,Pink,Quack Vegas,3
+14,The Fantastic Fowl,New York City,Yellow,The Shire,1
+14,The Fantastic Fowl,New York City,Green,The Shire,4
+15,The United Fed of Ducks,Quack Vegas,Yellow,The Shire,4
+15,The United Fed of Ducks,Quack Vegas,White,Duckgard,2
+15,The United Fed of Ducks,Quack Vegas,Black,Duckgard,3
+15,The United Fed of Ducks,Quack Vegas,Red,New Duck City,1
+15,The United Fed of Ducks,Quack Vegas,Blue,Ducklantis,1
+15,The United Fed of Ducks,Quack Vegas,Pink,Quack Vegas,2
+15,The United Fed of Ducks,Quack Vegas,Purple,Quack Vegas,1
+15,The United Fed of Ducks,Quack Vegas,Green,The Shire,4
+20,Duckleberry Fins,Neverduck,Black,Duckgard,3
+20,Duckleberry Fins,Neverduck,White,Duckgard,1
+20,Duckleberry Fins,Neverduck,Yellow,The Shire,1
+20,Duckleberry Fins,Neverduck,Green,The Shire,2
+20,Duckleberry Fins,Neverduck,Pink,Quack Vegas,6
+20,Duckleberry Fins,Neverduck,Orange,New Duck City,2
+20,Duckleberry Fins,Neverduck,Red,New Duck City,3
+20,Duckleberry Fins,Neverduck,Blue,Ducklantis,2
+21,The Rebel Ducks,Ducklantis,Blue,Ducklantis,3
+21,The Rebel Ducks,Ducklantis,Green,The Shire,4
+21,The Rebel Ducks,Ducklantis,Red,New Duck City,5
+21,The Rebel Ducks,Ducklantis,Purple,Quack Vegas,1
+21,The Rebel Ducks,Ducklantis,Yellow,The Shire,3
+21,The Rebel Ducks,Ducklantis,Orange,New Duck City,2
+21,The Rebel Ducks,Ducklantis,Pink,Quack Vegas,1
+22,The Fowlers,Quack Vegas,Red,New Duck City,1
+22,The Fowlers,Quack Vegas,Yellow,The Shire,1
+22,The Fowlers,Quack Vegas,Purple,Quack Vegas,4
+22,The Fowlers,Quack Vegas,Black,Duckgard,6
+22,The Fowlers,Quack Vegas,Blue,Ducklantis,6
+25,Knights of the Round Pound,Quackers Gate,Purple,Quack Vegas,3
+25,Knights of the Round Pound,Quackers Gate,Pink,Quack Vegas,2
+25,Knights of the Round Pound,Quackers Gate,Yellow,The Shire,3
+25,Knights of the Round Pound,Quackers Gate,Green,The Shire,2
+25,Knights of the Round Pound,Quackers Gate,Red,New Duck City,1
+25,Knights of the Round Pound,Quackers Gate,Orange,New Duck City,1
+25,Knights of the Round Pound,Quackers Gate,Blue,Ducklantis,2
+25,Knights of the Round Pound,Quackers Gate,White,Duckgard,1
+28,The Fellowship of the Wing,Duckgard,Red,New Duck City,2
+28,The Fellowship of the Wing,Duckgard,Orange,New Duck City,1
+28,The Fellowship of the Wing,Duckgard,Pink,Quack Vegas,4
+28,The Fellowship of the Wing,Duckgard,Purple,Quack Vegas,3
+28,The Fellowship of the Wing,Duckgard,Dark Blue,Ducklantis,2
+28,The Fellowship of the Wing,Duckgard,Baby Blue,Ducklantis,3
+28,The Fellowship of the Wing,Duckgard,White,Duckgard,2
+28,The Fellowship of the Wing,Duckgard,Green,The Shire,2
+30,The Dark Quackerhood,Ducktown,White,Duckgard,1
+30,The Dark Quackerhood,Ducktown,Yellow,The Shire,3
+30,The Dark Quackerhood,Ducktown,Pink,Quack Vegas,3
+30,The Dark Quackerhood,Ducktown,Orange,New Duck City,2
+30,The Dark Quackerhood,Ducktown,Green,The Shire,2
+30,The Dark Quackerhood,Ducktown,Purple,Quack Vegas,7
+31,Birds of Ponds,The Four Ponds,Orange,New Duck City,2
+31,Birds of Ponds,The Four Ponds,Red,New Duck City,1
+31,Birds of Ponds,The Four Ponds,Blue,Ducklantis,6
+31,Birds of Ponds,The Four Ponds,Purple,Quack Vegas,1
+31,Birds of Ponds,The Four Ponds,White,Duckgard,2
+31,Birds of Ponds,The Four Ponds,Black,Duckgard,1
+31,Birds of Ponds,The Four Ponds,Yellow,The Shire,4
+31,Birds of Ponds,The Four Ponds,Green,The Shire,2
+32,The Order of the Ducks,Ducktown,Black,Duckgard,1
+32,The Order of the Ducks,Ducktown,White,Duckgard,2
+32,The Order of the Ducks,Ducktown,Blue,Ducklantis,6
+32,The Order of the Ducks,Ducktown,Yellow,The Shire,1
+32,The Order of the Ducks,Ducktown,Green,The Shire,2
+32,The Order of the Ducks,Ducktown,Pink,Quack Vegas,1
+32,The Order of the Ducks,Ducktown,Orange,New Duck City,2
+33,The Sinister Quacks,Fowl Swamps,Black,Duckgard,1
+33,The Sinister Quacks,Fowl Swamps,Blue,Ducklantis,4
+33,The Sinister Quacks,Fowl Swamps,Yellow,The Shire,6
+33,The Sinister Quacks,Fowl Swamps,Green,The Shire,1
+33,The Sinister Quacks,Fowl Swamps,Pink,Quack Vegas,3
+33,The Sinister Quacks,Fowl Swamps,Purple,Quack Vegas,1
+34,Sailor Quackians,Duck City,Red,New Duck City,2
+34,Sailor Quackians,Duck City,Pink,Quack Vegas,1
+34,Sailor Quackians,Duck City,Teal,Ducklantis,2
+34,Sailor Quackians,Duck City,Green,The Shire,4
+34,Sailor Quackians,Duck City,Purple,Quack Vegas,1
+34,Sailor Quackians,Duck City,Black,Duckgard,2
+34,Sailor Quackians,Duck City,Yellow,The Shire,2
