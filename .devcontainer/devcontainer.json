@@ -15,8 +15,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-ossdata.vscode-pgsql",
-	    "ms-python.python"
+        "ms-ossdata.vscode-pgsql"
       ]
     }
   }

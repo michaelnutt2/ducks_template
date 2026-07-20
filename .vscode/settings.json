@@ -1,9 +1,40 @@
 {
-    "chat.disableAIFeatures": true,
-    "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "sql": false
-    },
-    "pgsql.copilot.enable": false,
+  "chat.disableAIFeatures": false,
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "sql": false
+  },
+  "pgsql.copilot.enable": false,
+  "pgsql.serverGroups": [
+    {
+      "name": "Servers",
+      "id": "BAB67037-33C2-40C4-93C6-74EE52B49DFB",
+      "isDefault": true
+    }
+  ],
+  "pgsql.connections": [
+    {
+      "id": "88E78CE9-6F57-44E5-9B86-3E5580AAE73B",
+      "groupId": "BAB67037-33C2-40C4-93C6-74EE52B49DFB",
+      "authenticationType": "None",
+      "connectTimeout": 15,
+      "applicationName": "vscode-pgsql",
+      "clientEncoding": "utf8",
+      "sslmode": "prefer",
+      "sshSavePassword": true,
+      "savePassword": true,
+      "sslRootCertMode": "none",
+      "server": "localhost",
+      "user": "postgres",
+      "profileName": "local",
+      "expiresOn": 0,
+      "profileSource": 0,
+      "emptyPasswordInput": true,
+      "password": "",
+      "sshPassword": "",
+      "displayName": "local",
+      "database": "ducks"
+    }
+  ]
 }
