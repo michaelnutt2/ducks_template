@@ -1,6 +1,23 @@
 {
-  "name": "Database Development Environment",
+  "name": "ducks_template",
   "dockerComposeFile": "docker-compose.yml",
   "service": "app",
-  "workspaceFolder": "/workspaces/ducks_template"
+  "workspaceFolder": "/workspaces/ducks_template",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+  },
+  "forwardPorts": [
+    8080,
+    5432
+  ],
+  "portsAttributes": {
+    "8080": {
+      "label": "pgAdmin",
+      "onAutoForward": "notify"
+    },
+    "5432": {
+      "label": "PostgreSQL",
+      "onAutoForward": "silent"
+    }
+  }
 }
