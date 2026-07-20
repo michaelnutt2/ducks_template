@@ -1,0 +1,9 @@
+{
+    "chat.disableAIFeatures": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "sql": false
+    },
+    "pgsql.copilot.enable": false,
+}
