@@ -2,7 +2,7 @@
   "name": "COSC 1301 PostgreSQL + pgAdmin",
   "dockerComposeFile": "docker-compose.yml",
   "service": "pgadmin",
-  "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspace/${localWorkspaceFolderBasename}",
   "forwardPorts": [8080, 5432],
   "portsAttributes": {
     "8080": {
