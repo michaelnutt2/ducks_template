@@ -1,18 +1,6 @@
 {
-  "name": "COSC 1301 PostgreSQL + pgAdmin",
+  "name": "Database Development Environment",
   "dockerComposeFile": "docker-compose.yml",
-  "service": "pgadmin",
-  "workspaceFolder": "/workspace/${localWorkspaceFolderBasename}",
-  "forwardPorts": [8080, 5432],
-  "portsAttributes": {
-    "8080": {
-      "label": "pgAdmin",
-      "onAutoForward": "openBrowser"
-    },
-    "5432": {
-      "label": "PostgreSQL",
-      "onAutoForward": "silent"
-    }
-  },
-  "postStartCommand": "echo 'pgAdmin available at port 8080 - login: student@cosc1301.local / password'"
+  "service": "app",
+  "workspaceFolder": "/workspaces/ducks_template"
 }
